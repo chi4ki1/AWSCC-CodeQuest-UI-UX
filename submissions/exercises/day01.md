@@ -13,24 +13,24 @@ _(just choose the questions you would like to answer and make it concise)_
 &nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 -   Which website is easier to find the product you are looking for?<br/>
-    Answer:
+    Answer: I find Shopee a lot more easier to navigate than Lazada.
 
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
-    Answer:
+    Answer: The pop-up advertisements of Shopee's games is I believe gonna cause confusion to some of the users. 
 
 -   Compare the organization of content between the two platforms. Which between the two platforms’ content is easier to scan and understand?<br/>
-    Answer:
+    Answer: I find Shopee a lot more easier to scan and understand as it clearly show different categories and it provided exact and concise logos that potrays what category it is specifically offering. Unlike Lazada, the only thing they provided are texts which can be sometimes not effective to some users as graphical symbolization is I believe a lot more effective to immediately find what one is looking for.
 
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;**User-Interface Analysis:**
 
 -   Is the websites’ layout and design visually pleasing and consistent with their brand?<br/>
-    Answer:
+    Answer: Both websites shows consistency on their branding design. However, I prefer the layout that Shopee is offering as it shows a strong appeal on the top part of the page. The color contrast of an orange background and a white text is what makes it easier to see and at the same time shows constistency to its branding.
     
 -   Comment on the responsiveness of both websites across different devices.<br/>
-    Answer:
+    Answer: Both sites offer responsivenes across different devices. As both of them offer an own application instead of focusing only on the websie, because of this, it makes the site a lot more mobile-friendly. This approach allows the website to automatically adapt the size of the screen and properly showcase a readable, easy to interact and the visual appeal of both websites.
     
 -   Which do you think is better when it comes to the visual aspect of the website?<br/>
-    Answer:
+    Answer: I think that Shopee has a better visual aspect. Because, there is a sufficient amount of icons on the home page that may help the users, there are proper amount of text and information, everything is cohesive, and the branding theme is not all over the place. These details appeals to me and I find it better visually.
     
     <br>
 
