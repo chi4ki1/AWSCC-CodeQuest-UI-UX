@@ -24,13 +24,13 @@ _(just choose the questions you would like to answer and make it concise)_
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;**User-Interface Analysis:**
 
 -   Is the websites’ layout and design visually pleasing and consistent with their brand?<br/>
-    Answer: Both websites shows consistency on their branding design. However, I prefer the layout that Shopee is offering as it shows a strong appeal on the top part of the page. The color contrast of an orange background and a white text is what makes it easier to see and at the same time shows constistency to its branding.
+    🚀Answer: Both websites shows consistency on their branding design. However, I prefer the layout that Shopee is offering as it shows a strong appeal on the top part of the page. The color contrast of an orange background and a white text is what makes it easier to see and at the same time shows constistency to its branding.
     
 -   Comment on the responsiveness of both websites across different devices.<br/>
-    Answer: Both sites offer responsivenes across different devices. As both of them offer an own application instead of focusing only on the websie, because of this, it makes the site a lot more mobile-friendly. This approach allows the website to automatically adapt the size of the screen and properly showcase a readable, easy to interact and the visual appeal of both websites.
+   🚀 Answer: Both sites offer responsivenes across different devices. As both of them offer an own application instead of focusing only on the websie, because of this, it makes the site a lot more mobile-friendly. This approach allows the website to automatically adapt the size of the screen and properly showcase a readable, easy to interact and the visual appeal of both websites.
     
 -   Which do you think is better when it comes to the visual aspect of the website?<br/>
-    Answer: I think that Shopee has a better visual aspect. Because, there is a sufficient amount of icons on the home page that may help the users, there are proper amount of text and information, everything is cohesive, and the branding theme is not all over the place. These details appeals to me and I find it better visually.
+    🚀Answer: I think that Shopee has a better visual aspect. Because, there is a sufficient amount of icons on the home page that may help the users, there are proper amount of text and information, everything is cohesive, and the branding theme is not all over the place. These details appeals to me and I find it better visually.
     
     <br>
 
