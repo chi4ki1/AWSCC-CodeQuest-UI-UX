@@ -5,8 +5,8 @@
 You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
 
 Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should include:
-- Link to your own file of **"Week 1 [Day 7]: Low-Fidelity Layout"**
-- A sneak peek of your wireframe clone to give us a glimpse of your creation
+🚀 https://www.figma.com/file/cwHD4bAUeJy6E3C7Ld8qh0/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=x5w5MT1rsjLHWmjP-1
+🚀 <img align="center" src="../../assets/submission-files-exercises/Screenshot 2024-01-06 194913.jpg" href="https://www.figma.com/file/cwHD4bAUeJy6E3C7Ld8qh0/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=x5w5MT1rsjLHWmjP-1">
 
 
 Ready to include your output for **Day 7**? Let the customization begin! 🚀✨
